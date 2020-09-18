@@ -1,0 +1,497 @@
+body {
+    background-color: #ECECEC;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.w {
+    width: 1364px;
+    margin: auto;
+}
+
+.logo_img {
+    margin-left: 86px;
+}
+
+.dropdown {
+    margin-top: -20px;
+    margin-left: 390px;
+}
+
+.nav_search {
+    padding-left: 20px;
+}
+
+.nav_custom {
+    background-color: rgba(236, 236, 236, 1);
+    height: 127px;
+    padding-top: 50px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Source Han Sans CN;
+}
+
+.nav_one a {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    height: 21px;
+    line-height: 21px;
+    padding: 0 0 8px 0;
+    text-decoration: none;
+}
+
+.nav_one a:hover {
+    border-bottom: 5px solid #361586;
+}
+
+.nav_two {
+    margin-top: -50px;
+    margin-left: 15px;
+}
+
+.banner img {
+    height: 100%;
+    width: 100%;
+}
+
+.kehu {
+    height: 192px;
+    padding-top: 50px;
+    border-top: 8px solid #E8AC45;
+    border-bottom: 1px solid #E8AC45;
+}
+
+.kehu img {
+    height: 100%;
+    width: 100%;
+}
+
+.wenzi {
+    float: right;
+    color: #E8AC45;
+    font-size: 18px;
+}
+
+.wenzi li:nth-child(2) {
+    font-size: 40px;
+}
+
+.wenzi2 {
+    color: #E8AC45;
+    font-size: 18px;
+    font-weight: 300;
+    margin-left: 40%;
+}
+
+.wenzi2 li:nth-child(2) {
+    font-size: 40px;
+}
+
+.thumbnail {
+    margin-top: -30px;
+    background-color: #ECECEC;
+    border: none;
+    box-shadow: none;
+}
+
+.us {
+    overflow: hidden;
+    height: 616px;
+    padding-top: 81px;
+}
+
+.about li {
+    font-size: 32px;
+    font-weight: 500;
+    width: 138px;
+    height: 43px;
+    line-height: 43px;
+    margin-bottom: 10px;
+}
+
+.about li:nth-child(2) {
+    font-size: 16px;
+    width: 86px;
+    height: 21px;
+    line-height: 21px;
+    margin-bottom: 10px;
+    color: rgba(0, 0, 0, .3);
+}
+
+.history {
+    position: absolute;
+    top: 118px;
+    width: 728px;
+    height: 272px;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.history li {
+    margin-bottom: 20px;
+}
+
+.more {
+    position: absolute;
+    top: 415px;
+}
+
+.look {
+    float: left;
+    height: 32px;
+    width: 122px;
+    background-color: #3A1684;
+    text-align: center;
+}
+
+.look a {
+    display: block;
+    color: #fff;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.jiantou {
+    float: left;
+    height: 32px;
+    width: 40px;
+    background-color: #fff;
+}
+
+.jiantou a {
+    display: block;
+    text-decoration: none;
+    margin-top: 7px;
+    margin-left: 9px;
+    color: #3A1684;
+}
+
+.tu {
+    float: right;
+    overflow: hidden;
+}
+
+.tu img {
+    display: block;
+    height: 440px;
+    width: 440px;
+}
+
+.rongyu {
+    height: 533px;
+    background: url(../img/ry.png) no-repeat top center;
+}
+
+.left {
+    position: absolute;
+    top: 38px;
+}
+
+.left img {
+    height: 345px;
+    width: 455px;
+}
+
+.right ul {
+    position: absolute;
+    top: 139px;
+}
+
+.right ul li {
+    color: #fff;
+    height: 21px;
+    line-height: 21px;
+    font-size: 16px;
+}
+
+.right ul li:nth-child(2) {
+    font-size: 40px;
+    font-weight: 500;
+    height: 53px;
+    line-height: 53px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.right ul li:nth-child(3) {
+    font-size: 14px;
+    height: 19px;
+    line-height: 19px;
+}
+
+.dianji {
+    position: absolute;
+    top: 274px;
+}
+
+.dianji {
+    position: absolute;
+    top: 274px;
+}
+
+.jian1 {
+    float: left;
+    height: 32px;
+    width: 122px;
+    background-color: #3A1684;
+    text-align: center;
+}
+
+.jian1 a {
+    display: block;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.jian2 {
+    float: left;
+    height: 13px;
+    width: 13px;
+    margin-top: 7px;
+    margin-left: 7px;
+}
+
+.jian2 a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+}
+
+.rongyu2 {
+    position: relative;
+    height: 180px;
+}
+
+.right2 ul {
+    position: absolute;
+    top: 0px;
+}
+
+.right2 ul li {
+    color: #000;
+    height: 21px;
+    line-height: 21px;
+    font-size: 16px;
+}
+
+.right2 ul li:nth-child(2) {
+    font-size: 40px;
+    font-weight: 500;
+    height: 53px;
+    line-height: 53px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.right2 ul li:nth-child(3) {
+    font-size: 14px;
+    height: 19px;
+    line-height: 19px;
+}
+
+.dianji2 {
+    position: absolute;
+    top: 120px;
+}
+
+.jian1_2 {
+    float: left;
+    height: 32px;
+    width: 122px;
+    background-color: #3A1684;
+    text-align: center;
+}
+
+.jian1_2 a {
+    display: block;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.jian2_2 {
+    float: left;
+    height: 13px;
+    width: 13px;
+    margin-top: 7px;
+    margin-left: 7px;
+}
+
+.jian2_2 a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+}
+
+.product {
+    overflow: hidden;
+    position: relative;
+    height: 800px;
+    background: url(../img/hua.png) no-repeat bottom center;
+    background-color: #ECECEC;
+}
+
+.product2 {
+    position: relative;
+    height: 1350px;
+    background-color: #ECECEC;
+}
+
+.biaoti {
+    position: absolute;
+    top: 47px;
+}
+
+.biaoti li {
+    height: 43px;
+    line-height: 43px;
+    color: #000;
+    font-size: 32px;
+}
+
+.biaoti li:nth-child(2) {
+    height: 21px;
+    line-height: 21px;
+    font-size: 16px;
+    font-weight: 200;
+    color: rgba(0, 0, 0, .3);
+}
+
+.see {
+    float: right;
+    margin-top: 54px;
+    height: 32px;
+    width: 122px;
+    border: 1px solid #3A1684;
+    text-align: center;
+}
+
+.see a {
+    display: block;
+    height: 32px;
+    line-height: 32px;
+    color: #000;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.chanpin {
+    position: absolute;
+    top: 206px;
+}
+
+.chanpin2 {
+    position: absolute;
+    top: 206px;
+}
+
+.chanpin li {
+    float: left;
+    height: 595px;
+    width: 343px;
+}
+
+.chanpin li:nth-child(2) {
+    margin: 0 55px;
+}
+
+.chanpin li img {
+    height: 240px;
+    width: 343px;
+    border: 1px dashed #000;
+}
+
+.chanpin li h5 {
+    margin-top: 69px;
+}
+
+.chanpin li p {
+    display: block;
+    overflow: hidden;
+    height: 75px;
+    width: 260px;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.footer {
+    position: relative;
+    height: 288px;
+    border-top: 8px solid #E8AC45;
+    background-color: #3A1684;
+}
+
+.footer2 {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    height: 144px;
+    border-top: 8px solid #E8AC45;
+    background-color: #3A1684;
+}
+
+.lianjie {
+    position: absolute;
+    top: 55px;
+}
+
+.lianjie dl {
+    float: left;
+    color: #fff;
+    margin-right: 150px;
+}
+
+.lianjie dl dt {
+    margin-bottom: 17px;
+    font-size: 16px;
+}
+
+.lianjie dl dd {
+    margin-bottom: 5px;
+}
+
+.lianjie dl dd a {
+    color: #fff;
+    font-size: 14px;
+}
+
+.footer img {
+    position: absolute;
+    height: 28px;
+    width: 102px;
+    border: 1px dashed #fff;
+    top: 56px;
+    right: 0;
+}
+
+.footer p {
+    position: absolute;
+    font-size: 14px;
+    color: #fff;
+    top: 211px;
+    right: 0;
+}
+
+.footer2 img {
+    position: absolute;
+    height: 28px;
+    width: 102px;
+    border: 1px dashed #fff;
+    top: 0;
+    left: 35%;
+}
